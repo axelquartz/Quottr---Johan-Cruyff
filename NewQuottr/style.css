@@ -1,0 +1,56 @@
+
+.titulo{
+	display: block;
+	width: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-bottom: 10px;
+}	
+.mtext{
+	font-family: monospace;
+	padding-bottom: 30px;
+	font-size: 20px;
+	margin: 0px 30px 0px 30px;
+}
+
+.xtext{
+	font-family: monospace;
+	padding-bottom: 30px;
+	font-size: 20px;
+	margin: 0px 230px 0px 230px;
+}
+
+
+header{
+	background: rgba(1000, 1000, 0, 0.9);
+	padding-top: 20px;
+	z-index: 1;
+}
+.cruyff{
+	width: 600px;
+	border-radius: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	margin-top: 90px;
+}
+.quott{
+	margin-top: 130px;
+	text-align: center;
+	margin-bottom: 80px;
+	font-family: monospace;
+	font-size: 26px;
+}
+.boton2{
+	text-align: center;
+}
+.ttwr{
+	font-family: monospace;
+}
+.boton{
+	background: yellow;
+	color:black;
+	font-family: monospace;
+}
